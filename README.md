@@ -11,4 +11,4 @@
   - [P&G Calendar android](https://play.google.com/store/apps/details?id=com.pg.periodcalendar_40817_1617_cmg_0076) 
   - and some automotive works for PSA and FCA which are not released yet
 - 🤘 [Telegram contests account](https://contest.com/user/Fairy-Zebra)
-- 📫 How to reach me: [Telegram](t.me/opiumfive)
+- 📫 How to reach me: [Telegram](https://t.me/opiumfive)
