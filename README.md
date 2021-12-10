@@ -12,3 +12,4 @@ Contests:
 * [Yandex Cup 2021 (mobile)](https://yandex.ru/cup) - 3rd place
 * [Telegram Sticker App Contest 2021](https://contest.com/sticker-app) - 2nd place
 * [Telegram November Android Contest 2021](https://contest.com/android-nov2021) - 3rd place
+* [Telegram November Android Contest 2021 round 2](https://contest.com/android-nov2021-r2) - 2rd place
