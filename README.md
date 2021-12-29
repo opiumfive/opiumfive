@@ -1,7 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
-Working on some pet projects on Flutter and [Telegram for Android wearable lite](https://t.me/+V3MQjx9dfCEwMjJi) (without using TDlib, Java only) </br> </br>
-Hate overengeneering and big teams (please f*** off with those overhyped unnecessary abstractions, software firstly should work properly, fast, lightweight, consistent and crash free, too much attention to architecture will never help you to be better than competitors in the market)</br> </br>
+Love native Android development and a bit Flutter. </br>
+Love very difficult and useful tasks. </br>
+Won some Telegram android contests. </br> </br>
+Dont love big teams and overengeneering or overarchitecturing because of overhyped unnecessity and unreasonable increase in development time (and price), usually entailing a decrease in the quality of the software itself. Using of the word "legacy" is an attempt to justify one's incompetence as a developer. </br> </br>
+Currently working on some pet projects on Flutter and [Telegram for Android wearable lite](https://t.me/+V3MQjx9dfCEwMjJi) (without using TDlib, Java only) </br> </br>
 Some projects I've participated in: 
   [Timebook ios](https://apps.apple.com/ru/app/timebook/id1561578302), [Flowwow android](https://play.google.com/store/apps/details?id=com.flowwow), [LS.NET android](https://play.google.com/store/apps/details?id=com.lsboutqiue.app), [Swip android](https://play.google.com/store/apps/details?id=com.it.swip), [P&G Calendar android](https://play.google.com/store/apps/details?id=com.pg.periodcalendar_40817_1617_cmg_0076) and some automotive things for PSA and FCA which cannot be referenced </br> </br>
 How to reach me: [Telegram](https://t.me/opiumfive) </br> </br>
