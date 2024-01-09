@@ -15,3 +15,5 @@ Contests:
 * [Telegram November Android Contest 2021](https://contest.com/android-nov2021) - 3rd place
 * [Telegram November Android Contest 2021 round 2](https://contest.com/android-nov2021-r2) - 2nd place
 * [Telegram March Android Calls UI Contest 2023](https://contest.com/call-ui-android) - 2nd place
+* [Telegram December Android UI Contest 2023](https://contest.com/android-ui-2023) - 3rd place
+* [Ton contest 5 December 2023](https://t.me/toncontests/151) - #32/158
