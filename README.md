@@ -18,3 +18,4 @@ Contests:
 * [Telegram December Android UI Contest 2023](https://contest.com/android-ui-2023) - 3rd place
 * [Ton contest 5 December 2023](https://t.me/toncontests/151) - #32/158
 * [Tonkeeper contest for iOS & Android 2024](https://t.me/tonkeeper_news/129) - Top 3 (Top 1 of Androids)
+* [Telegram Android Contest 2024 (round 1)](https://contest.com/android-ui-2023) - 3rd place
