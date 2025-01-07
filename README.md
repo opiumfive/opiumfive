@@ -19,3 +19,4 @@ Contests:
 * [Ton contest 5 December 2023](https://t.me/toncontests/151) - #32/158
 * [Tonkeeper contest for iOS & Android 2024](https://t.me/tonkeeper_news/129) - Top 3 (Top 1 of Androids)
 * [Telegram Android Contest 2024 (round 1)](https://contest.com/android2024-r1) - 3rd place
+* [Telegram Android Contest 2024 (round 2)](https://contest.com/android2024-r2) - 3rd place
