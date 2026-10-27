@@ -6,7 +6,7 @@ Some projects I've participated in:
 How to reach me: [Telegram](https://t.me/opiumfive) </br> </br>
 Contests:
 * [Telegram Contests](https://contest.com/user/Fairy-Zebra) - many prize places
-* [Tonkeeper contest for iOS & Android](https://t.me/tonkeeper_news/129) - Top 3 (Top 1 of Androids)
+* [Tonkeeper contest for iOS & Android](https://t.me/tonkeeper_news/129) - 1st place in Android
 * [Yandex Cup 2021 (mobile)](https://yandex.ru/cup) - 3rd place
 * [Ton contest 5](https://t.me/toncontests/151) - #32/158
 
