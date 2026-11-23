@@ -9,4 +9,5 @@ Contests:
 * [Tonkeeper contest for iOS & Android](https://t.me/tonkeeper_news/129) - 1st place in Android
 * [Yandex Cup 2021 (mobile)](https://yandex.ru/cup) - 3rd place
 * [Ton contest 5](https://t.me/toncontests/151) - #32/158
+* [Alfa Connectome: LOB ML Competition](https://wundernn.io/connectome/leaderboard) - #5-9/5841
 
